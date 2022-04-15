@@ -1,5 +1,7 @@
 # Template for Java TDD Kata
 
+**Deprecated, please use another java template with a newer junit version.**
+
 ## Cloning
 
 ```sh
